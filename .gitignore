@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# NestJS backend folder
+/birds/brids-nest-js-crud-sample/
